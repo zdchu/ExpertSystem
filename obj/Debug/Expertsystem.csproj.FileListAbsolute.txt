@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\Expertsystem\Expertsystem\bin\Debug\Expertsystem.exe.config
+\\Mac\Home\Desktop\Expertsystem\Expertsystem\obj\Debug\Expertsystem.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Expertsystem\Expertsystem\obj\Debug\Expertsystem.Expert_System.resources
+\\Mac\Home\Desktop\Expertsystem\Expertsystem\obj\Debug\Expertsystem.Form2.resources
+\\Mac\Home\Desktop\Expertsystem\Expertsystem\obj\Debug\Expertsystem.Properties.Resources.resources
+\\Mac\Home\Desktop\Expertsystem\Expertsystem\obj\Debug\Expertsystem.csproj.GenerateResource.Cache
+C:\Users\Czd\Documents\WeChat Files\czd15300240009\FileStorage\File\2019-04\Expertsystem\Expertsystem\bin\Debug\Expertsystem.exe
+C:\Users\Czd\Documents\WeChat Files\czd15300240009\FileStorage\File\2019-04\Expertsystem\Expertsystem\bin\Debug\Expertsystem.pdb
+C:\Users\Czd\Documents\WeChat Files\czd15300240009\FileStorage\File\2019-04\Expertsystem\Expertsystem\obj\Debug\Expertsystem.csprojResolveAssemblyReference.cache
+C:\Users\Czd\Documents\WeChat Files\czd15300240009\FileStorage\File\2019-04\Expertsystem\Expertsystem\obj\Debug\Expertsystem.Ontology_Add.resources
+C:\Users\Czd\Documents\WeChat Files\czd15300240009\FileStorage\File\2019-04\Expertsystem\Expertsystem\obj\Debug\Expertsystem.Properties.Resources.resources
+C:\Users\Czd\Documents\WeChat Files\czd15300240009\FileStorage\File\2019-04\Expertsystem\Expertsystem\obj\Debug\Expertsystem.csproj.GenerateResource.cache
+C:\Users\Czd\Documents\WeChat Files\czd15300240009\FileStorage\File\2019-04\Expertsystem\Expertsystem\obj\Debug\Expertsystem.csproj.CoreCompileInputs.cache
+C:\Users\Czd\Documents\WeChat Files\czd15300240009\FileStorage\File\2019-04\Expertsystem\Expertsystem\obj\Debug\Expertsystem.exe
+C:\Users\Czd\Documents\WeChat Files\czd15300240009\FileStorage\File\2019-04\Expertsystem\Expertsystem\obj\Debug\Expertsystem.pdb
+C:\Users\Czd\Documents\WeChat Files\czd15300240009\FileStorage\File\2019-04\Expertsystem\Expertsystem\obj\Debug\Expertsystem.RowFact.resources

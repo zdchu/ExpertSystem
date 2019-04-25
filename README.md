@@ -1,0 +1,1 @@
+A simple C# ExpertSystem implementation based on rules. If you like it please star it.

@@ -1,0 +1,21 @@
+salary onestandard
+accordingtolabour nononestandard
+labourfactorincome accordingtolabourfactor
+accordingtolabour talentincome
+talentincome labourfactorincome
+nestandard distributionfair
+nononestandard distributionunfair
+talentincome labourfactorincome
+revenue surplus
+rent surplus
+talentincome income
+salary societyproduction
+surplus societyproduction
+surplus exploit
+surplus capital capitalaccumulation
+rent capital
+revenue capital
+talentincome capital
+otherpossession capital
+capitalaccumulation capitalist
+exploit capitalist
